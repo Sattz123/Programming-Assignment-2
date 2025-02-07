@@ -11,10 +11,10 @@ NOTE: If you want to input other file, you need to change the directory of file.
 
 To run this program, you will need to downlaod FileAnalyze.java
 then compile this java file by typing
->javac FileAnalyzer.java
+>javac FileAnalyze.java
 
 then run it by typing
->java FileAnalyzer
+>java FileAnalyze
 
 Example Output:
 
